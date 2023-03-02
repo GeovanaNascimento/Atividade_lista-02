@@ -23,3 +23,9 @@ print ('Sua nota no segundo bimestre é: ', media_do_2bimestre)
 print ('Sua nota no terceiro bimestre é: ', media_do_3bimestre)
 print ('Sua nota no quarto bimestre é:', media_do_4bimestre)
 
+
+
+nota_1 =
+nota_2 =
+nota_3 =
+nota_4 =
